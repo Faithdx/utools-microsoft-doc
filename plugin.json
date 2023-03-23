@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "pluginName": "Microsoft 速查",
+    "description": "C# / .NET6 / .NET7 文档",
+    "author": "DAXIN",
+    "homepage": "",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "C#",
+            "explain": "C# 文档速查",
+            "cmds": ["C#"]
+        }
+    ]
+}
